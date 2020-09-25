@@ -1,0 +1,43 @@
+body {
+    background-color: #CFD8DC;
+}
+
+#header {
+    background-color: #546E7A;
+    color: #CFD8DC;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+
+#footer {
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #546E7A;
+    border: none;
+    padding: 10px;
+    color: #CFD8DC;
+}
+
+button:hover {
+    background-color: #bbb28e;
+}
+
+#canvas {
+    height: 500px;
+    width: 500px;
+    display: grid;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+.pixel {
+    border: 1px solid black;
+    background-color: white;
+}
